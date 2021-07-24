@@ -1,0 +1,798 @@
+C:\Users\ROG ZEPHYRUS\Desktop\PTTK\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\mscorlib.dll
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\normidna.nlp
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\normnfc.nlp
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\normnfd.nlp
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\normnfkc.nlp
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\normnfkd.nlp
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Forminhoadon.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.cache
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.compiled
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Forminhoadon.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.cache
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.compiled
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHangHoa.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.dll
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.xml
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHangHoa.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Baocaohd.rdlc
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.dll
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.xml
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.FormRP.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHangHoa.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.cache
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.compiled
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Baocaohd.rdlc
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.dll
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.xml
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.FormRP.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHangHoa.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.cache
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.compiled
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Baocaohd.rdlc
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.dll
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.xml
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.FormRP.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHangHoa.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.cache
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.compiled
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.FormRP.resources
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHangHoa.resources
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Baocaohd.rdlc
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.dll
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.xml
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Hanh Nguyen Thi My\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.CopyComplete
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Baocaohd.rdlc
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.dll
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.xml
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.FormRP.resources
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHangHoa.resources
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.cache
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.compiled
+D:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhapHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Baocaohd.rdlc
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.FormRP.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHangHoa.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhapHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Baocaohd.rdlc
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.dll
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.xml
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.FormRP.resources
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHangHoa.resources
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhapHang.resources
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe.licenses
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.cache
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.compiled
+C:\Users\HP\Downloads\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.rptHoaDon.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.rptHoaDon.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe.licenses
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmKhachHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Cong Tan\OneDrive\Desktop\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.CopyComplete
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Baocaohd.rdlc
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.FormRP.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHangHoa.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmKhachHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.rptHoaDon.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhapHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe.licenses
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.CopyComplete
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Baocaohd.rdlc
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.dll
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.xml
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.FormRP.resources
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHangHoa.resources
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmKhachHang.resources
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.rptHoaDon.resources
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhapHang.resources
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe.licenses
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DAL.pdb
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Baocaohd.rdlc
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DAL.dll
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.dll
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DAL.pdb
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.xml
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.FormRP.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHangHoa.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmKhachHang.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.rptHoaDon.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhapHang.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe.licenses
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.cache
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\LinhTinh\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.compiled
+C:\Users\Lenovo\OneDrive\Máy tính\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Lenovo\OneDrive\Máy tính\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Lenovo\OneDrive\Máy tính\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Baocaohd.rdlc
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DAL.dll
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.dll
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\FontAwesome.Sharp.dll
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\DAL.pdb
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.xml
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.FormRP.resources
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHangHoa.resources
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmKhachHang.resources
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.rptHoaDon.resources
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhapHang.resources
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe.licenses
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.cache
+D:\Final_DOTNET\DoAn_PhatTrienPhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.compiled

@@ -1,0 +1,59 @@
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\UnitTest\bin\Debug\Manager.exe
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\UnitTest\bin\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Admin\Desktop\DoAn\Manager\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Users\Admin\Desktop\DoAn\Manager\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Admin\Desktop\DoAn\Manager\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Admin\Desktop\DoAn\Manager\UnitTest\bin\Debug\Manager.exe
+C:\Users\Admin\Desktop\DoAn\Manager\UnitTest\bin\Debug\Manager.pdb
+C:\Users\Admin\Desktop\DoAn\Manager\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAn\Manager\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Admin\Desktop\DoAn\Manager\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\Manager.exe
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\Manager.pdb
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\Manager.exe
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\Manager.pdb
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\Baocaohd.rdlc
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\Manager.exe
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\Manager.pdb
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\obj\Debug\UnitTest.pdb
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\Baocaohd.rdlc
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\UnitTest.dll.config
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\UnitTest.dll
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\UnitTest.pdb
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\Manager.exe
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\Manager.pdb
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\obj\Debug\UnitTest.dll
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\obj\Debug\UnitTest.pdb
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\Baocaohd.rdlc
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\UnitTest.dll.config
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\UnitTest.dll
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\UnitTest.pdb
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\Manager.exe
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\bin\Debug\Manager.pdb
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\obj\Debug\UnitTest.dll
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\UnitTest\obj\Debug\UnitTest.pdb

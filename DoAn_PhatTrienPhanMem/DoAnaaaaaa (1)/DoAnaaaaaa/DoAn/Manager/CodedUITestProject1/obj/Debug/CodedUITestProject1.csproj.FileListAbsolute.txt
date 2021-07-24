@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\DoAn\Manager\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+C:\Users\Admin\Desktop\DoAn\Manager\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+C:\Users\Admin\Desktop\DoAn\Manager\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAn\Manager\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+C:\Users\Admin\Desktop\DoAn\Manager\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb

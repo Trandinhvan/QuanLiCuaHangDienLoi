@@ -1,0 +1,12 @@
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\TestUnit\bin\Debug\TestUnit.dll.config
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\TestUnit\bin\Debug\TestUnit.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\TestUnit\bin\Debug\TestUnit.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\TestUnit\obj\Debug\TestUnit.csprojResolveAssemblyReference.cache
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\TestUnit\obj\Debug\TestUnit.dll
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\TestUnit\obj\Debug\TestUnit.pdb
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\TestUnit\bin\Debug\TestUnit.dll.config
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\TestUnit\bin\Debug\TestUnit.dll
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\TestUnit\bin\Debug\TestUnit.pdb
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\TestUnit\obj\Debug\TestUnit.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\TestUnit\obj\Debug\TestUnit.dll
+C:\Users\Admin\Downloads\game\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\TestUnit\obj\Debug\TestUnit.pdb

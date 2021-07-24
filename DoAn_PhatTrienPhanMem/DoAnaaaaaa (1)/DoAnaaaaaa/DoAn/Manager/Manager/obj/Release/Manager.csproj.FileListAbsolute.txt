@@ -1,0 +1,17 @@
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Release\Manager.csprojAssemblyReference.cache
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Release\Manager.Form1.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Release\Manager.FormRP.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Release\Manager.frmAdmin.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Release\Manager.frmDangNhap.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Release\Manager.frmHoaDon.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Release\Manager.frmHangHoa.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Release\Manager.frmKhachHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Release\Manager.frmNhapHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Release\Manager.Properties.Resources.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Release\Manager.rptHoaDon.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Release\Manager.UCNhapHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Release\Manager.UCKhachHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Release\Manager.UCNhanVien.resources
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Release\Manager.csproj.GenerateResource.cache
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Release\Manager.exe.licenses
+C:\Users\Cong Tan\OneDrive\Desktop\tan\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Release\Manager.csproj.CoreCompileInputs.cache
